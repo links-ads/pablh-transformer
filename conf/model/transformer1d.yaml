@@ -1,0 +1,14 @@
+name : 'transformer1d'
+dims : 1
+batch_size : 1024
+accumulate_batches : 1
+max_epochs : 1000
+es_patience : 200
+loss : 'mse'
+max_lr : 1.0e-03
+min_lr : 1.0e-20
+lr_schedule : 'cos'
+rop_patience : 25
+rop_rate : 0.5
+train_size : 32
+epoch_samples : 65536

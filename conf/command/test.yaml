@@ -1,0 +1,8 @@
+# @package _global_
+command:
+  name : test
+  ver_number : 82128
+dataset:
+  eu_only : false
+  clear_sky_only : false
+  cloudy_sky_only : false

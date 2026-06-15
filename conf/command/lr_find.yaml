@@ -1,0 +1,5 @@
+name : lr_find
+min_lr : 1e-10
+max_lr : 1e-1
+num_training : 200
+es_threshold : 10000

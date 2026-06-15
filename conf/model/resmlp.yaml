@@ -1,0 +1,14 @@
+name : 'resmlp'
+dims : 0
+batch_size : 1024  
+accumulate_batches : 1
+train_size : 1
+epoch_samples : 1048576
+rop_rate : 0.5
+max_epochs : 1000
+lr_schedule : 'cos'
+es_patience : 200
+min_lr : 1.0e-10
+max_lr : 1.0e-03
+rop_patience : 25
+loss : 'mse'

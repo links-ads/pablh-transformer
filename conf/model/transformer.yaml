@@ -1,0 +1,10 @@
+name : 'transformer'
+batch_size : 1024
+# 16 on 1g
+accumulate_batches : 1
+min_lr : 1e-6
+max_lr : 1e-6
+max_epochs: 1000
+lr_schedule: 'lin'
+es_patience: 100
+epoch_samples : 8192

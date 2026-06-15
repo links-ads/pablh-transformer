@@ -1,0 +1,4 @@
+name : iasi1d
+path : data/planetary-boundary-layer-height/metop_era5_pblh_dataset
+scale_factor : 4000.0
+

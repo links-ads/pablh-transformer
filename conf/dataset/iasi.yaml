@@ -1,0 +1,3 @@
+name : iasi
+path : data/planetary-boundary-layer-height/metop_era5_pblh_dataset
+scalrad_as_bt : False

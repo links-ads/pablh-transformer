@@ -1,0 +1,6 @@
+defaults:
+  - model : transformer2d
+  - dataset : iasi2d
+  - command: train
+  - _self_
+

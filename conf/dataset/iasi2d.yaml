@@ -1,0 +1,5 @@
+name : iasi2d
+path : data/planetary-boundary-layer-height/metop_era5_pblh_dataset
+validation_height : 800
+validation_width : 30
+scale_factor : 4000.0

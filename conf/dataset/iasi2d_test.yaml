@@ -1,0 +1,5 @@
+name : iasi2d_test
+path : data/planetary-boundary-layer-height/TEAMX_DS
+validation_height : 800
+validation_width : 30
+scale_factor : 4000.0

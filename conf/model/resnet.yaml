@@ -1,0 +1,12 @@
+name : 'resnet'
+dims : 2
+batch_size : 8
+accumulate_batches : 2
+max_epochs: 500
+es_patience: 100
+loss: 'mse'
+max_lr : 1e-3
+min_lr : 1e-5
+lr_schedule: 'exp'
+train_size: 128
+epoch_samples : 8192

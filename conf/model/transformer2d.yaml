@@ -1,0 +1,11 @@
+name : 'mae_dual'
+dims : 2
+batch_size : 16
+accumulate_batches : 1
+max_lr : 1e-5
+min_lr : 1e-10
+max_epochs: 10000
+lr_schedule: 'cos'
+es_patience: 400
+loss: 'mse'
+train_size: 16
