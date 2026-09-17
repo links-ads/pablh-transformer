@@ -23,7 +23,7 @@ pip install -e .
 
 ## Dataset
 
-The model is trained on the dataset introduced in the companion paper (Larosa et al., under review), available on HuggingFace at [links-ads/metop-era5-pablh](https://huggingface.co/datasets/links-ads/metop-era5-pablh).
+The model is trained on the dataset introduced in the companion paper (Larosa et al., under review), available on HuggingFace at [links-ads/metop-era5-pablh](https://huggingface.co/datasets/links-ads/metop-era5-pblh).
 
 Download it and place the `data/` folder (or symlink it) at:
 
